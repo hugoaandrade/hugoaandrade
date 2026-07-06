@@ -46,7 +46,7 @@ Building web applications, automations and AI-powered solutions.
 
 <p align="center">
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoAAndrade&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://streak-stats.demolab.com?user=HugoAAndrade&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=HugoAAndrade&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- <p align="center">

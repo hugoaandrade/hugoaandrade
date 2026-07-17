@@ -13,7 +13,7 @@ Building web applications, automations and AI-powered solutions.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://hugoandrade.vercel.app/" target="_blank">
+<a href="https://www.hugoandradetech.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
 

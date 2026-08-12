@@ -40,9 +40,9 @@ Building web applications, automations and AI-powered solutions.
 <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,docker,mysql,git,github,linux,vscode,html,css,sass" />
 </p>
 
----
+<!-- ---
 
-<!-- ## 📊 GitHub Activity
+ ## 📊 GitHub Activity
 
 <p align="center">
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoAAndrade&layout=compact&theme=tokyonight&hide_border=true"/>

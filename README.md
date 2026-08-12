@@ -42,7 +42,7 @@ Building web applications, automations and AI-powered solutions.
 
 ---
 
-## 📊 GitHub Activity
+<!-- ## 📊 GitHub Activity
 
 <p align="center">
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HugoAAndrade&layout=compact&theme=tokyonight&hide_border=true"/>
